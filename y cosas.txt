@@ -1,0 +1,86 @@
+
+json-server --watch one.json -p 4000
+
+
+mi MAC: 74D435C9FA16
+
+C0lqu3*18
+
+Latitude: -18.0781056
+Longitude: -70.29473279999999
+
+http://maps.google.com/?q=-18.0781056,-70.29473279999999
+
+
+2b2e33
+--------------------------------------------------------------
+>POR DEFECTO
+54	ESCRITORIO	5065F3B78E36
+55	MOVIL		354107093235955
+>MIS DATOS
+ESCRITORIO	74D435C9FA16
+MOVIL		860918034533168
+	
+
+------------------------------------------
+SISTEMA IAS
+SUBMENU CAJA BOVEDA
+OTRO CONTROLLADOR ADEMAS DE CALLCENTER
+-----------------------------------------------------
+---FIREWALL  ESET NOT
+--201508
+
+o.aguilar@software3000.net
+123456abc**
+administrador 
+*Colinktek2011
+mac
+1
+teamviewer
+1130706440
+97jnu1
+
+66.2 gigas vm high sierra
+
+https://thatcsharpguy.com/post/popups-avanzados-xamarin-forms/
+--------------------------------------------------------------------------
+
+xamarin Forms
+
+librerias.
+xam.plugin.media
+
+-LISTAR DOCUMENTOS 
+-APROBAR DOCUMENTOS SEGUN LISTA
+
+
+ { 
+   "to" : "cKLMnYIwNY4:APA91bFz37G3uj7vVwtSxtRnqmCIFyX-PPPwSsKr6lUu-x2Bjrev_i98uTIBfIWcf3OpTL9LtKjm-SgUYnEIzDf7E9bsHGGMuslH5Knwujg54-aGlUMLDTJHFDPE5RhPtP-9a0PUHl6Z",
+
+   "notification": {
+    "title": "Acceso al Sistema",
+    "body": "Acceso Usuario [5]  ulegalJS",
+    "sound":  "default",
+    "click_action" : ".MapsActivity"
+  },
+  "data":{
+    "codigo": "5",
+    "nombreUsuario": "AdministradorLEGAL"
+  }
+}
+
+
+"c5e95dcc625bf751"
+
+-*******************************LARAVEL 
+
+heidi crear usuario : GRANT ALL ON db.* TO USER@'192.168.1.40' IDENTIFIED BY 'PtomboladbASSWORD';
+
+ composer install
+ php artisan -serve
+ cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan make:controller TipoPagoController
+php artisan migrate:refresh --seed
+php artisan make:seeder TipoPagoSeeder
